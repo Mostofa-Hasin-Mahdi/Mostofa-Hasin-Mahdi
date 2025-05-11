@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mostofa hasin mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostofa hasin mahdi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostofa hasin mahdi" height="30" width="40" /></a>
 <a href="https://fb.com/mostofa hasin mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostofa hasin mahdi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hasinzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasinzzz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hasinzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasinzzz" height="30" width="40" /></a>
