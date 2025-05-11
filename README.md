@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostofa-Hasin-Mahdi?tab=repositories](https://github.com/Mostofa-Hasin-Mahdi?tab=repositories)
 
-- 💬 Ask me about **C,C++, DSA, SQL, OOP**
+- 💬 Ask me about **C,C++, DSA, SQL, OOP, Leetcode Problems**
 
 - 📫 How to reach me **hasinmahdi.hmr@gmail.com**
 
