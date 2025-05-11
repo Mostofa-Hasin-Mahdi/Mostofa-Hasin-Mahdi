@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hasinmahdi.hmr@gmail.com**
 
-- ⚡ Fun fact **I make gaming vides at YT@WHITE4GLE**
+- ⚡ Fun fact **I make gaming videos at YT@WHITE4GLE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
