@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Frontend techs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mostofa-Hasin-Mahdi?tab=repositories](https://github.com/Mostofa-Hasin-Mahdi?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Mostofa-Hasin-Mahdi?tab=repositories)
 
 - 💬 Ask me about **C,C++, DSA, SQL, OOP, Leetcode Problems**
 
