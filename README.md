@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chakri Pao](https://github.com/Mostofa-Hasin-Mahdi/Chakri-Pao-)
 
-- 🌱 I’m currently learning **Java, JavaScript,**
+- 🌱 I’m currently learning **Java, JavaScript, React Js**
 
 - 🤝 I’m looking for help with **Frontend techs**
 
