@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostofa-hasin-mahdi" alt="mostofa-hasin-mahdi" /></a> </p>
 
-- 🔭 I’m currently working on [Chakri Pao](https://github.com/Mostofa-Hasin-Mahdi/Chakri-Pao-), [ParkEase](https://github.com/Mostofa-Hasin-Mahdi/ParkEase-Parking-Management-System)
+- 🔭 I’m currently working on **Django + React app**
 
-- 🌱 I’m currently learning **Java, JavaScript, React Js**
+- 🌱 I’m currently learning **Django • React • PostgreSQL • Prisma • AWS • CI/CD Pipelining**
 
-- 🤝 I’m looking for help with **Frontend techs**
+- 🤝 I’m looking for help with **API development**
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/Mostofa-Hasin-Mahdi?tab=repositories)
 
-- 💬 Ask me about **C,C++, DSA, SQL, OOP, Leetcode Problems**
+- 💬 Ask me about **C++, Java, DSA, SQL, OOP, System Design, Linux, Python, Django, React, MySQL, AWS, Leetcode Problems**
 
 - 📫 How to reach me **hasinmahdi.hmr@gmail.com**
-
-- ⚡ Fun fact **I make gaming videos at YT@WHITE4GLE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
