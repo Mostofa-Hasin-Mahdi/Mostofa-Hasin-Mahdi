@@ -1,8 +1,6 @@
 # 🚀 **Mostofa Hasin Mahdi**  
 ### **Backend Engineer | REST APIs | Databases | Scalable System Design**
 
-![Header](./github-header-banner.png)
-
 ### 🌐 **Connect With Me**
 <a href="https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28">
