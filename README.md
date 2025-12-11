@@ -60,13 +60,6 @@ I love solving complex backend problems, designing efficient data pipelines, and
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28">
 </div>
 
----
-
-## 📈 **GitHub Stats**
-<div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mostofa-hasin&show_icons=true&theme=react" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa-hasin&layout=compact&theme=react" />
-</div>
 
 ---
 
