@@ -1,11 +1,4 @@
-# 🚀 **Mostofa Hasin Mahdi**  
-### **Backend Engineer | REST APIs | Databases | Scalable System Design**
-
-### 🌐 **Connect With Me**
-<a href="https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28">
-</a>
-
+# 👋 **Hi there!**  
 ---
 
 ## 👨‍💻 **About Me**
@@ -26,30 +19,18 @@ I love solving complex backend problems, designing efficient data pipelines, and
 ---
 
 ## 🛠️ **Tech Stack — Backend Focused**
-
-### **Backend & APIs**
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
 </div>
-
-### **Databases**
 <div>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28">
 </div>
-
-### **Frontend (Supporting Skills)**
-<div>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="28">
-</div>
-
-### **Programming Languages**
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
