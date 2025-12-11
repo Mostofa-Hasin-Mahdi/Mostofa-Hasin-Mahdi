@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/Mostofa-Hasin-Mahdi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<a href="https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Software Engineer | Problem Solver | Full-Stack Development with React • FastAPI • PostgreSQL • Prisma | Building Robust & Scalable Applications</h3>**
 
