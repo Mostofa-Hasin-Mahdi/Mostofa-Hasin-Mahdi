@@ -9,7 +9,6 @@
 - 💼 I'm currently working on: **💻 Developing a multi-tenant web app**
 - 🌱 I'm currently learning: **📚 Exploring Machine Learning**
 - 💬 Ask me about: **💡 C++, Python, FastAPI, Postgres, MongoDB, MySQL, React, Node.js, Flutter**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
 
