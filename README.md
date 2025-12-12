@@ -3,7 +3,9 @@
 
 🌱 Learning: Fundamentals of Machine Learning & backend architecture
 
-💬 Ask me about: FastAPI, Express.js, PostgreSQL, MongoDB, MySQL, Node.js, Python, C++, React, Flutter
+💬 Ask me about: Backend Development, Leetcode, DSA
+
+📫 Reach me: hasinmahdi.hmr@gmail.com
 
 ### <h1> 🚀 About Me </h1>
 
