@@ -22,7 +22,6 @@ Hi, I'm Mahdi, a passionate Computer Science & Engineering Student specializing 
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="37">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="37">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="37">
 </h2>
 </div>
 
