@@ -1,15 +1,15 @@
-## <h1>Hello World 👋 </h1>
+### <h1>Hello World 👋 </h1>
 💼 Building: Backend projects that are scalable
 
 🌱 Learning: Fundamentals of Machine Learning & backend architecture
 
 💬 Ask me about: FastAPI, Express.js, PostgreSQL, MongoDB, MySQL, Node.js, Python, C++, React, Flutter
 
-## <h1> 🚀 About Me </h1>
+### <h1> 🚀 About Me </h1>
 
 Hi, I'm Mahdi, a passionate Computer Science & Engineering Student specializing on design and development of robust, scalable server-side systems. Proven ability on Building backend solutions using FastAPI, Express.js, Prisma ORM, PostgreSQL, MongoDB, MySQL. Solid problem solving & analytical skills to tackle challenges. Committed to continuous learning and delivering impactful software that exceeds expectations and scales with demand.  
 
-## <h1> 🛠️ **Tech Stack** </h1>
+### <h1> 🛠️ **Tech Stack** </h1>
 <div>
 <h2>
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="37">
@@ -30,7 +30,7 @@ Hi, I'm Mahdi, a passionate Computer Science & Engineering Student specializing 
 </h2>
 </div>
 
-## 🎯 **What I'm Focusing On Next**
+### 🎯 **What I'm Focusing On Next**
 - TypeScript for scalable backend codebases  
 - Redis caching & message queues  
 - Docker & CI/CD pipelines  
