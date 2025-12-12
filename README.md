@@ -15,20 +15,14 @@ Hi, I'm Mahdi, a passionate Computer Science & Engineering Student specializing 
 <div>
 <h2>
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="37">
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="37">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="37">
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="37">
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="37">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="37">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="37">
 </h2>
 </div>
 
