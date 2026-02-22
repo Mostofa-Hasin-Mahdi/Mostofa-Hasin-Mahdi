@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahdi+👋;Full-Stack+Developer;React.js+%7C+Node.js+%7C+FastAPI;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%20there!%20I'm%20Mahdi%20%F0%9F%91%8B;Full-Stack%20Developer;React.js%20%7C%20Node.js%20%7C%20FastAPI;Always%20Learning%20New%20Tech" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,8 +34,9 @@ I'm a passionate **Computer Science & Engineering Student** specializing in the 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostofa-Hasin-Mahdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostofa-Hasin-Mahdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostofa-Hasin-Mahdi&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostofa-Hasin-Mahdi&theme=tokyonight" alt="Stats" />
 </div>
 
 ---
