@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%20there!%20I'm%20Mahdi%20%F0%9F%91%8B;Full-Stack%20Developer;React.js%20%7C%20Node.js%20%7C%20FastAPI;Always%20Learning%20New%20Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%20there!%20I'm%20Mahdi%20%F0%9F%91%8B;Full-Stack%20Developer;React.js%20%7C%20Node.js%20%7C%20Express.js;Always%20Learning%20New%20Tech" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,9 +34,12 @@ I'm a passionate **Computer Science & Engineering Student** specializing in the 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostofa-Hasin-Mahdi&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostofa-Hasin-Mahdi&theme=radical" alt="Profile details badge"/>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostofa-Hasin-Mahdi&theme=tokyonight" alt="Stats" />
+  <div style="display: flex; flex-direction: row; gap: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostofa-Hasin-Mahdi&theme=radical" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostofa-Hasin-Mahdi&theme=radical&utcOffset=8" alt="Commits per day badge"/>
+  </div>
 </div>
 
 ---
@@ -51,7 +54,7 @@ I'm a passionate **Computer Science & Engineering Student** specializing in the 
 
 ### 🎯 Let's Connect!
 - 🔹 **Email:** [hasinmahdi.hmr@gmail.com](mailto:[EMAIL_ADDRESS])  
-- 🔹 **LinkedIn:** [linkedin.com/in/mostofa-hasin-mahdi-76777a182/](https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182/) 
+- 🔹 **LinkedIn:** [linkedin.com/in/mostofa-hasin-mahdi](https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182/) 
 
 <br>
 
