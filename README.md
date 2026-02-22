@@ -1,33 +1,59 @@
-### <h1>Hello World 👋 </h1>
-💼 Building: Full Stack projects that are scalable
-
-🌱 Learning: Advanced Full Stack Architecture & System Design
-
-💬 Ask me about: Full Stack Development, React, Node.js, FastAPI, Leetcode
-
-📫 Reach me: hasinmahdi.hmr@gmail.com
-
-### <h1> 🚀 About Me </h1>
-
-Hi, I'm Mahdi, a passionate Computer Science & Engineering Student specializing in the design and development of robust, scalable full-stack applications. Proven ability in building end-to-end solutions using React.js, Express.js, Node.js, FastAPI, PostgreSQL, and MongoDB. Solid problem-solving & analytical skills to tackle challenges. Committed to continuous learning and delivering impactful software that exceeds expectations and scales with demand.
-
-### <h1> 🛠️ **Tools** </h1>
-<div>
-<h2>
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="37">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="37">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="37">
-</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahdi+👋;Full-Stack+Developer;React.js+%7C+Node.js+%7C+FastAPI;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-### 🎯 **What I'm Focusing On Next**
-- TypeScript for scalable full-stack codebases  
-- Microservices & Next.js
-- Docker & CI/CD pipelines  
-- Advanced State Management
+---
 
-⭐ *Thanks for visiting my profile! Always open to collaboration and exciting full-stack challenges.*
+### 🚀 About Me 
+
+I'm a passionate **Computer Science & Engineering Student** specializing in the design and development of robust, scalable full-stack applications. I have proven ability in building end-to-end solutions, and I am committed to continuous learning and delivering impactful software that exceeds expectations and scales with demand.
+
+- 💼 **Building:** Scalable Full Stack projects
+- 🌱 **Learning:** Advanced Full Stack Architecture & System Design
+- 💬 **Ask me about:** Full Stack Development, React, Node.js, FastAPI, Leetcode
+- 📫 **Reach me:** [hasinmahdi.hmr@gmail.com](mailto:hasinmahdi.hmr@gmail.com)
+
+---
+
+### 🛠️ Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostofa-Hasin-Mahdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostofa-Hasin-Mahdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🎯 What I'm Focusing On Next
+- 🔹 **TypeScript** for scalable full-stack codebases  
+- 🔹 **Microservices** & **Next.js**
+- 🔹 **Docker** & **CI/CD** pipelines  
+- 🔹 Advanced State Management
+
+---
+
+### 🎯 Let's Connect!
+- 🔹 **Email:** [hasinmahdi.hmr@gmail.com](mailto:[EMAIL_ADDRESS])  
+- 🔹 **LinkedIn:** [linkedin.com/in/mostofa-hasin-mahdi-76777a182/](https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182/) 
+
+<br>
+
+<div align="center">
+  <i>⭐ Thanks for visiting my profile! Always open to collaboration and exciting full-stack challenges. ⭐</i>
+</div>
