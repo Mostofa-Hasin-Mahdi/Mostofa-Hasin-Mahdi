@@ -11,7 +11,6 @@ I'm a passionate **Computer Science & Engineering Student** specializing in the 
 - 💼 **Building:** Scalable Full Stack projects
 - 🌱 **Learning:** Advanced Full Stack Architecture & System Design
 - 💬 **Ask me about:** Full Stack Development, React, Node.js, FastAPI, Leetcode
-- 📫 **Reach me:** [hasinmahdi.hmr@gmail.com](mailto:hasinmahdi.hmr@gmail.com)
 
 ---
 
@@ -52,7 +51,7 @@ I'm a passionate **Computer Science & Engineering Student** specializing in the 
 
 ---
 
-### 🎯 Let's Connect!
+### 📫 Let's Connect!
 - 🔹 **Email:** [hasinmahdi.hmr@gmail.com](mailto:[EMAIL_ADDRESS])  
 - 🔹 **LinkedIn:** [linkedin.com/in/mostofa-hasin-mahdi](https://www.linkedin.com/in/mostofa-hasin-mahdi-76777a182/) 
 
