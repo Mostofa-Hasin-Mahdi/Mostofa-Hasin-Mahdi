@@ -34,11 +34,11 @@ I'm a passionate **Computer Science & Engineering Student** specializing in the 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostofa-Hasin-Mahdi&theme=github" alt="Profile details badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostofa-Hasin-Mahdi&theme=nord_dark" alt="Profile details badge"/>
   <br>
   <div style="display: flex; flex-direction: row; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostofa-Hasin-Mahdi&theme=nord_bright" alt="General stats badge"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostofa-Hasin-Mahdi&theme=vue&utcOffset=8" alt="Commits per day badge"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mostofa-Hasin-Mahdi&theme=nord_dark" alt="General stats badge"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mostofa-Hasin-Mahdi&theme=nord_dark&utcOffset=8" alt="Commits per day badge"/>
   </div>
 </div>
 
